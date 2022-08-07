@@ -1,9 +1,14 @@
+@font-face {
+    font-family: sf-pro-display;
+    src: url(fonts/SF-Pro-Display-Regular.otf);
+}
+
 body {
     margin: 0;
 
     background-color: #1b1b1b;
     color: white;
-    font-family: "SF Pro Display", sans-serif;
+    font-family: sf-pro-display, sans-serif;
     font-size: 1rem;
 }
 
